@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AL | Results-Driven Marketing for Aesthetic Practices</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <style>
+        body { font-family: 'Inter', sans-serif; background-color: #0a0a0a; color: #ffffff; scroll-behavior: smooth; }
+        .gold-text { color: #d4af37; }
+        .gold-bg { background-color: #d4af37; }
+        .gold-border { border-color: #d4af37; }
+        .card-gradient { background: linear-gradient(145deg, #1a1a1a, #0d0d0d); border: 1px solid #262626; }
+        .hero-gradient { background: radial-gradient(circle at top, #1a1a1a 0%, #0a0a0a 100%); }
+    </style>
+</head>
+<body>
+
+    <nav class="flex justify-between items-center py-6 px-10 border-b border-white/10 sticky top-0 bg-black/80 backdrop-blur-md z-50">
+        <div class="text-2xl font-bold tracking-tighter">
+            <img src="REPLACE_WITH_LOGO_URL" alt="AL LOGO" class="h-8 brightness-200">
+        </div>
+        <a href="#cta" class="gold-border border px-5 py-2 text-sm uppercase tracking-widest hover:bg-white hover:text-black transition duration-300">Book a Call</a>
+    </nav>
+
+    <section class="hero-gradient py-24 px-6 text-center">
+        <div class="max-w-4xl mx-auto">
+            <h1 class="text-5xl md:text-7xl font-bold mb-8 leading-tight">
+                Results-driven Marketing that <span class="gold-text">Actually Drives Results</span>
+            </h1>
+            <p class="text-xl text-gray-400 mb-6 font-light italic">
+                Stop wasting time and money on things that don’t work.
+            </p>
+            <p class="text-lg text-gray-300 mb-12 max-w-2xl mx-auto leading-relaxed">
+                I use proven frameworks that make your practice stand out and get more clients — <span class="text-white font-semibold">starting this month.</span>
+            </p>
+            <a href="#cta" class="gold-bg text-black px-10 py-5 rounded-sm font-bold uppercase tracking-widest hover:scale-105 transition-transform inline-block">Book a Call</a>
+        </div>
+    </section>
+
+    <section class="py-24 px-6 bg-black">
+        <div class="max-w-6xl mx-auto">
+            <div class="text-center mb-16">
+                <p class="gold-text uppercase tracking-[0.3em] text-sm mb-2">Case Study</p>
+                <h2 class="text-4xl font-bold">Previous Results</h2>
+            </div>
+            
+            <div class="grid md:grid-cols-3 gap-8">
+                <div class="card-gradient p-8 rounded-lg group">
+                    <div class="overflow-hidden rounded-md mb-6 h-48 bg-gray-800 flex items-center justify-center">
+                        <img src="AD_DASHBOARD_IMAGE_URL" alt="Ad Spend Dashboard" class="object-cover w-full h-full opacity-60 group-hover:opacity-100 transition duration-500">
+                    </div>
+                    <h3 class="text-3xl font-bold gold-text mb-2">400€</h3>
+                    <p class="font-semibold mb-3">Ad Spend</p>
+                    <p class="text-gray-400 text-sm">The campaign was run with a total budget of 400€, spent over 45 days.</p>
+                </div>
+
+                <div class="card-gradient p-8 rounded-lg group">
+                    <div class="overflow-hidden rounded-md mb-6 h-48 bg-gray-800 flex items-center justify-center">
+                        <img src="WA_MESSAGE_IMAGE_URL" alt="WhatsApp Conversation" class="object-cover w-full h-full opacity-60 group-hover:opacity-100 transition duration-500">
+                    </div>
+                    <h3 class="text-3xl font-bold gold-text mb-2">35 New Clients</h3>
+                    <p class="font-semibold mb-3">Conversions</p>
+                    <p class="text-gray-400 text-sm">The campaign generated 55 new WhatsApp conversations, resulting in 35 new clients within 45 days.</p>
+                </div>
+
+                <div class="card-gradient p-8 rounded-lg group">
+                    <div class="overflow-hidden rounded-md mb-6 h-48 bg-gray-800 flex items-center justify-center">
+                        <img src="SHEET_LEADS_IMAGE_URL" alt="Leads Sheet" class="object-cover w-full h-full opacity-60 group-hover:opacity-100 transition duration-500">
+                    </div>
+                    <h3 class="text-3xl font-bold gold-text mb-2">Real ROI</h3>
+                    <p class="font-semibold mb-3">500% ROI</p>
+                    <p class="text-gray-400 text-sm">A 6x ROAS (return on money spent on ads) for the beauty clinic.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="py-24 px-6 bg-[#0d0d0d]">
+        <div class="max-w-6xl mx-auto">
+            <h2 class="text-4xl font-bold text-center mb-16">How I Can Help You Get More Customers</h2>
+            <div class="grid md:grid-cols-3 gap-12">
+                <div class="space-y-4">
+                    <div class="gold-text text-3xl font-light">01</div>
+                    <h3 class="text-xl font-bold">IG Ads</h3>
+                    <p class="text-gray-400 leading-relaxed text-sm">Instagram and Facebook ads that reach locals interested in your services. High-end, tailored ads designed to make your practice stand out.</p>
+                </div>
+                <div class="space-y-4">
+                    <div class="gold-text text-3xl font-light">02</div>
+                    <h3 class="text-xl font-bold">G Ads</h3>
+                    <p class="text-gray-400 leading-relaxed text-sm">Ads that place you at the top of Google searches. Attract locals actively searching for your plastic surgery treatments.</p>
+                </div>
+                <div class="space-y-4">
+                    <div class="gold-text text-3xl font-light">03</div>
+                    <h3 class="text-xl font-bold">Homepage Optimization</h3>
+                    <p class="text-gray-400 leading-relaxed text-sm">Homepages built to turn visitors into booked appointments. Designed to show what new clients look for effectively.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="py-24 px-6 bg-black">
+        <div class="max-w-5xl mx-auto">
+            <p class="gold-text uppercase tracking-widest text-sm mb-4 text-center">My Process</p>
+            <h2 class="text-4xl font-bold text-center mb-16">3 Steps To Help You Get More Clients</h2>
+            <div class="space-y-8">
+                <div class="flex flex-col md:flex-row gap-8 items-center border-b border-white/5 pb-8">
+                    <div class="text-5xl font-bold text-white/10 shrink-0">01</div>
+                    <div>
+                        <h4 class="text-xl font-bold mb-2">Find What Makes You Unique</h4>
+                        <p class="text-gray-400">Markets are crowded. I find what makes your practice different to use as leverage in our campaigns.</p>
+                    </div>
+                </div>
+                <div class="flex flex-col md:flex-row gap-8 items-center border-b border-white/5 pb-8">
+                    <div class="text-5xl font-bold text-white/10 shrink-0">02</div>
+                    <div>
+                        <h4 class="text-xl font-bold mb-2">Leverage Your Content</h4>
+                        <p class="text-gray-400">I use your strongest videos and images to show clients why they should choose you over anyone else.</p>
+                    </div>
+                </div>
+                <div class="flex flex-col md:flex-row gap-8 items-center border-b border-white/5 pb-8">
+                    <div class="text-5xl font-bold text-white/10 shrink-0">03</div>
+                    <div>
+                        <h4 class="text-xl font-bold mb-2">Get New Clients</h4>
+                        <p class="text-gray-400">I create tailored ads that reach the right locals and consistently generate qualified consultations.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="py-24 px-6 bg-[#0d0d0d]">
+        <div class="max-w-4xl mx-auto">
+            <h2 class="text-4xl font-bold text-center mb-16">Why choose Me over everyone else?</h2>
+            <div class="grid grid-cols-2 gap-4">
+                <div class="bg-gray-900/50 p-6 rounded-l-lg border-r border-gold-border">
+                    <h4 class="text-red-500 font-bold mb-6 uppercase text-xs tracking-widest">Agencies / Others</h4>
+                    <ul class="space-y-4 text-sm text-gray-500">
+                        <li>✕ Same templates across clients</li>
+                        <li>✕ No clear strategy</li>
+                        <li>✕ Optimise for clicks, not bookings</li>
+                        <li>✕ Slow communication</li>
+                        <li>✕ Work is outsourced</li>
+                        <li>✕ Long, restrictive contracts</li>
+                    </ul>
+                </div>
+                <div class="bg-white/5 p-6 rounded-r-lg">
+                    <h4 class="gold-text font-bold mb-6 uppercase text-xs tracking-widest">Me</h4>
+                    <ul class="space-y-4 text-sm text-white">
+                        <li>✓ 100% personalised campaigns</li>
+                        <li>✓ Strategies that work NOW</li>
+                        <li>✓ Exclusive beauty/cosmetic focus</li>
+                        <li>✓ Direct and fast communication</li>
+                        <li>✓ Performance partnership</li>
+                        <li>✓ No contracts required</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="py-24 px-6 bg-black">
+        <div class="max-w-3xl mx-auto">
+            <h2 class="text-3xl font-bold mb-12 text-center">Frequently Asked Questions</h2>
+            <div class="space-y-8">
+                <div>
+                    <h4 class="font-bold gold-text mb-2 italic">How is this different from other agencies I’ve worked with?</h4>
+                    <p class="text-gray-400 text-sm">Most marketing focuses on traffic. My approach is built around the full patient journey—aligning the ad, landing experience, and tracking around how high-ticket aesthetic patients actually choose a surgeon.</p>
+                </div>
+                <div>
+                    <h4 class="font-bold gold-text mb-2 italic">Do paid ads actually work for plastic surgery clinics?</h4>
+                    <p class="text-gray-400 text-sm">Yes, when positioned correctly. Success is measured in consultations, not just generic clicks or price-shoppers.</p>
+                </div>
+                <div>
+                    <h4 class="font-bold gold-text mb-2 italic">Is there a long-term contract?</h4>
+                    <p class="text-gray-400 text-sm">No. Partnerships are maintained through performance. If the system delivers results, we continue. If not, you are not locked in.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="cta" class="py-24 px-6 gold-bg text-black">
+        <div class="max-w-3xl mx-auto text-center">
+            <h2 class="text-4xl font-bold mb-4">Your Flood of New Customers Starts Here</h2>
+            <p class="text-lg mb-10 font-semibold italic">Apply for a call to see how I can best help you.</p>
+            
+            <form action="https://formspree.io/f/your@email.com" method="POST" class="bg-black p-8 rounded-lg shadow-2xl text-left">
+                <div class="grid md:grid-cols-2 gap-4 mb-4">
+                    <input type="text" name="name" placeholder="Full Name" required class="w-full p-4 bg-gray-900 text-white rounded focus:ring-2 focus:ring-[#d4af37] outline-none">
+                    <input type="email" name="email" placeholder="Practice Email" required class="w-full p-4 bg-gray-900 text-white rounded focus:ring-2 focus:ring-[#d4af37] outline-none">
+                </div>
+                <input type="text" name="clinic" placeholder="Clinic Name" class="w-full p-4 bg-gray-900 text-white rounded mb-4 focus:ring-2 focus:ring-[#d4af37] outline-none">
+                <textarea name="message" rows="4" placeholder="Briefly describe your current goals" class="w-full p-4 bg-gray-900 text-white rounded mb-6 focus:ring-2 focus:ring-[#d4af37] outline-none"></textarea>
+                <button type="submit" class="w-full gold-bg text-black font-bold py-4 rounded hover:bg-white transition duration-300 uppercase tracking-widest">Book My Consultation</button>
+            </form>
+        </div>
+    </section>
+
+    <footer class="py-10 text-center text-gray-600 text-xs border-t border-white/5">
+        &copy; 2026 AL Marketing. All rights reserved.
+    </footer>
+
+</body>
+</html>
